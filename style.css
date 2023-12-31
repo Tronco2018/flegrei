@@ -1,0 +1,24 @@
+.titolo{
+  color: black;
+  text-align: center;
+  font-family: Impact;
+  font-size: 50pt;
+  position: sticky;
+}
+.santino{
+  align:left;
+
+}
+.linea{
+  height: 5px;
+  color: black;
+  background-color: black;
+}
+.flegrei{
+  color: black;
+  font-family: Arial;
+}
+.storia{
+  color: black;
+  font-family: Arial;
+}
