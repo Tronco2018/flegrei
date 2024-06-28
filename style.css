@@ -4,9 +4,10 @@
   font-family: Impact;
   font-size: 50pt;
   position: sticky;
+  font-family: Arial;
 }
 .santino{
-  align:left;
+  align-items:left;
 
 }
 .linea{
