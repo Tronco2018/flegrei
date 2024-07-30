@@ -4,12 +4,10 @@
   font-family: Impact;
   font-size: 50pt;
   position: sticky;
-  font-family: Arial;
+  font-family: sans-serif;
+  margin-left: 500px;
 }
-.santino{
-  align-items:left;
 
-}
 .linea{
   height: 5px;
   color: black;
@@ -17,9 +15,20 @@
 }
 .flegrei{
   color: black;
-  font-family: Arial;
+  font-family: sans-serif;
+  text-align: center;
 }
 .storia{
   color: black;
-  font-family: Arial;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center; 
+}
+
+body{
+  background-color:lightcyan;
 }
